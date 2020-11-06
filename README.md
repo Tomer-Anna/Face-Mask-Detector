@@ -21,11 +21,11 @@ Part 1: Import, preprocess and build a few models using Keras library.
 Part 2: Chose the best model and test the result in LIVE via webcam, using OpenCV library.
 The idea to do this project I took from Kaggle and from this guy.
 
-Data
+## Data
 The data contain 13,432 images of people with and without a mask. this dataset is balanced - 6,703 with mask and 6,729 without a mask.
 The data already divided into 3 separate datasets: train, validation and test.
 
-Data sources:
+## Data sources:
 I created the datasets (train, test and validation) by combining data from a few data sources:
 
 https://data-flair.training/blogs/download-face-mask-data/ - train and test setes.
