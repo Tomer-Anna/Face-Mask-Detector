@@ -1,11 +1,11 @@
 # Read This First!
 `Face Mask Detector with gif.ipynb` file contain a short gif that demonstrates the results if it's doesn't open you can:
-1. Copy the link to this site https://nbviewer.jupyter.org/ and it will open it.
+1. Copy the link and paste it on this site https://nbviewer.jupyter.org/ and it will open it.
 2. Open `Face Mask Detector.ipynb` file which is without the gif therefore is lighter and supposed to open just fine!
 
 I added a video in a separate file as well, for demonstrates the results.
 
-The Xception model's Weights are too heavy so I uploaded the MobileNet model's Weights which received almost the same results
+The Xception model's Weights are too heavy so I uploaded the MobileNet model's Weights which received almost the same results.
 
 
 
